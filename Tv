@@ -1,0 +1,114 @@
+#EXTM3U
+
+#EXTINF:-1,TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+
+#EXTINF:-1,ESPAÑA:HISPAN TV
+http://107.189.40.49:1935/live/hispantv/playlist.m3u8
+
+#EXTINF:-1,24/7 Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1,CINE Y SERIES:Europa Europa
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
+
+
+#EXTINF:-1,TV MARTÍ (Cuba)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+#EXTINF:-1,TOP Latino TV www.premiumtv.org
+http://173.236.60.186:1935/livetv/latinoSD.stream/playlist.m3u8
+
+#EXTINF:-1,UNIVISION EAST
+http://p4.giffy.be:8080/live/coke123/coke123/31155.m3u8
+
+#EXTINF:-1,UNIVISION WEST
+http://p4.giffy.be:8080/live/coke123/coke123/31154.m3u8
+
+#EXTINF:-1,MEGA TV
+http://p4.giffy.be:8080/live/coke123/coke123/31870.m3u8
+
+#EXTINF:-1,TELEMUNDO EAST.
+http://p4.giffy.be:8080/live/coke123/coke123/31151.m3u8
+
+#EXTINF:-1,TELEMUNDO WEST.
+http://p4.giffy.be:8080/live/coke123/coke123/31868.m3u8
+
+#EXTINF:-1,UNIMAS
+http://p4.giffy.be:8080/live/coke123/coke123/31150.m3u8
+
+#EXTINF:-1,DISCOVERY ESP
+http://p4.giffy.be:8080/live/coke123/coke123/31865.m3u8
+
+#EXTINF:-1,CNN ESPANOL
+http://p4.giffy.be:8080/live/coke123/coke123/31864.m3u8
+
+#EXTINF:-1,CINELATINO
+http://p4.giffy.be:8080/live/coke123/coke123/31863.m3u8
+
+#EXTINF:-1,HISTORY ESP
+http://p4.giffy.be:8080/live/coke123/coke123/35219.m3u8
+
+#EXTINF:-1,HBO ESP
+http://p4.giffy.be:8080/live/coke123/coke123/35228.m3u8
+
+#EXTINF:-1,NTN 24
+http://p4.giffy.be:8080/live/coke123/coke123/35349.m3u8
+
+#EXTINF:-1,LAT | INVESTIGATION DISCOVERY
+http://p4.giffy.be:8080/live/coke123/coke123/35133.m3u8
+
+#EXTINF:-1,LAT | UNIVISION
+http://p4.giffy.be:8080/live/coke123/coke123/32306.m3u8
+
+#EXTINF:-1,LAT | TELEMUNDO
+http://p4.giffy.be:8080/live/coke123/coke123/32307.m3u8
+
+#EXTINF:-1,LAT | TELEMUNDO INTERNACIONAL
+http://p4.giffy.be:8080/live/coke123/coke123/32303.m3u8
+
+#EXTINF:-1,LAT | UNIMAS
+http://p4.giffy.be:8080/live/coke123/coke123/32302.m3u8
+
+#EXTINF:-1,LAT | BEIN SPOR.m3u8
+http://p4.giffy.be:8080/live/coke123/coke123/32294.m3u8
+
+#EXTINF:-1,LAT | HBO
+http://p4.giffy.be:8080/live/coke123/coke123/32305.m3u8
+
+#EXTINF:-1,LAT | TNT SERIES HD
+http://p4.giffy.be:8080/live/coke123/coke123/32298.m3u8
+
+#EXTINF:-1,SKY SPORT MAIN EVENT
+http://p4.giffy.be:8080/live/coke123/coke123/21743.m3u8
+
+#EXTINF:-1,SKY SPOR.m3u8 CRICKET
+http://p4.giffy.be:8080/live/coke123/coke123/21742.m3u8
+
+#EXTINF:-1,SKY SPOR.m3u8 ACTION
+http://p4.giffy.be:8080/live/coke123/coke123/21741.m3u8
+
+#EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
+http://p4.giffy.be:8080/live/coke123/coke123/21739.m3u8
+
+#EXTINF:-1,SKY SPORT NEWS
+http://p4.giffy.be:8080/live/coke123/coke123/21732.m3u8
+
+#EXTINF:-1,SKY SPOR.m3u8 NEWS HD
+http://p4.giffy.be:8080/live/coke123/coke123/21737.m3u8
+
+#EXTINF:-1,SKY SPOR.m3u8 HD ARENA
+http://p4.giffy.be:8080/live/coke123/coke123/26075.m3u8
+
+#EXTINF:-1,US | WEATHER HD
+http://p4.giffy.be:8080/live/coke123/coke123/23193.m3u8
+
+#EXTINF:-1,US | CNN  HD
+http://p4.giffy.be:8080/live/coke123/coke123/29026.m3u8
+
+#EXTINF:-1,DISNEY JR CA
+http://p4.giffy.be:8080/live/coke123/coke123/20727.m3u8
